@@ -96,15 +96,6 @@ To learn more about Next.js:
 * Learn Next.js — interactive tutorial
 * Next.js GitHub repository — feedback and contributions welcome
 
----
-
-## Deployment
-
-The easiest way to deploy this app is using **Vercel**.
-
-Refer to the official Next.js deployment documentation for more details.
-
----
 
 ## Why This Project Matters
 
